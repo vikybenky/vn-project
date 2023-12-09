@@ -5,7 +5,7 @@ from io import StringIO
 
 st.title('Landmark Recognition')
 
-uploaded_file = st.file_uploader("Choose a file")
+uploaded_file = st.file_uploader("Choose an image to be uploaded:", type="jpg")
 
 if uploaded_file is not None:
     st.image(uploaded_file)
