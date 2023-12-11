@@ -2,4 +2,4 @@
 
 ## Landmark Recognition
 
-Please read the report.
+You can find all the information in the report.
