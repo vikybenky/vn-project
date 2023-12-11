@@ -12,3 +12,6 @@ if uploaded_file is not None:
     
     if st.button('Run'):
         st.write('AI is running...')
+
+        model = load_model('my_model.h5')
+        prediction = model.predict(test_X, verbose=1) 
