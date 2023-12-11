@@ -8,4 +8,4 @@ Google Landmark Recognition should predict landmark labels directly from image p
 
 ## Dataset 
 
-Data are downloaded from competition on Kaggle website, where they are already divided into training and test set.
+Data are downloaded from competition on Kaggle website. 
