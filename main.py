@@ -27,6 +27,6 @@ if uploaded_file is not None:
             
             st.success('Done!')
 
-        
+        st.write('Predicted label is: ')
     
 
